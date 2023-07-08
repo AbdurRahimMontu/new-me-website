@@ -36,6 +36,7 @@
   margin-top: 20px;
   cursor: pointer;
 }
+/* hero section style */
 .hero-section {
   width: 1200px;
   height: 600px;
@@ -78,6 +79,7 @@
   color: rgb(0, 156, 52);
   font-weight: 800;
 }
+/* plan section  */
 .plan-container{
     border: 1px solid black;
     width: 900px;
