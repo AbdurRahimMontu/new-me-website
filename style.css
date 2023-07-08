@@ -4,7 +4,7 @@
   list-style: none;
 }
 .header-banner {
-  background-image: url(/images/banner/banner2.png);
+  background-image: url('/images/developer-person-background.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
