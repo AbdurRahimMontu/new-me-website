@@ -118,3 +118,66 @@ font-style: normal;
 font-weight: 500;
 line-height: normal;
 }
+.watch-container{
+  border: 1px solid black;
+  width: 900px;
+  height: 250px;
+  margin: 80px auto;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%),url(./images/watch.png);
+
+
+}
+.watch-container-title{
+  color: #FFF;
+
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.btn{
+  background-color: #ffffff;
+  color: #F15B22;
+
+}
+.watch-container-div{
+ 
+margin: 30px ;
+}
+/* footer section  */
+
+footer{
+
+  width: 900px;
+  height: 250px;
+  margin: 0px auto;
+  background-color: #151414;
+
+ 
+  
+  
+}
+.footer-container{
+  width: 900px;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+ 
+
+}
+.footer-title, .footer-paragraf, .footer-email, .footer-phone, .footer-subscribe{
+  color: #ffffff;
+}
+.footer-subscribe{
+  margin-top: -30px;
+  margin-bottom: 20px;
+}
+
+.footer-title{
+  margin-bottom: 20px;
+}
+span img{
+  margin-top: 20px;
+}
