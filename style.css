@@ -10,4 +10,31 @@
     width: 1200px;
     height: 600px;
     margin: 0 auto;
+    position: relative;
+}
+.header-banner-container{
+    
+ position: absolute;
+top: 25%;
+text-align: right;
+left: 60%;
+
+}
+.header-banner-text{
+    font-size: 65px;
+    font-weight: bold;
+}
+.header-banner-paragraf{
+    font-size: 16px;
+    font-weight: normal;
+}
+.header-btn{
+    background-color: #F15B22 ;
+    color: #ffffff;
+   padding: 12px 24px;
+   border: 0;
+   font-size: 25px;
+   margin-top: 20px;
+   cursor: pointer;
+
 }
